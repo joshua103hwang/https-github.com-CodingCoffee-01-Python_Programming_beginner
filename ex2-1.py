@@ -1,2 +1,2 @@
 # this is my first program
-print("hello worid")
+print("hello worid 6666")
